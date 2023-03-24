@@ -1,4 +1,3 @@
-### Hi there 👋🏾
 
 <!--
 **Hinkabi/Hinkabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
+### Hi there 👋🏾
 Thanks for visiting my profile 👩🏾‍💻!<br><br>I'm Hannah, a full stack engineer based in NYC. I attended a 12 month immersive bootcamp from Pursuit where I learned about HTML, CSS, JS, React, SQL and many more technologies!
 
 
